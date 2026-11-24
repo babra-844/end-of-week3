@@ -1,0 +1,40 @@
+
+# SpendWise - Budget Tracker
+
+## About the Project
+SpendWise is a simple budget tracker that helps users
+manage their income and expenses.
+
+## Features
+- Add expenses
+- Enter expense amounts
+- Select expense categories
+- View expenses in a table
+- Clean and responsive design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open index.html in your browser.
+
+## GitHub Repository
+[SpendWise GitHub Repository](YOUR_ACTUAL_GITHUB_URL)
+
+## Live Website
+[Visit SpendWise](YOUR_ACTUAL_NETLIFY_URL)
+
+## Deployment
+The website is deployed using Netlify and connected
+to GitHub for automatic redeployment when changes
+are pushed to the repository.
+
+## Reflection
+This project helped me understand how to organize
+website files, publish projects using GitHub, and
+deploy websites using Netlify. I also learned how
+continuous deployment works.
